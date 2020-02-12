@@ -1,6 +1,11 @@
 # C_ProgrammingBasics
  Basics Fundamentals of Programming in C Lang
  
- <font color = "Red">C is available for many different types of computers. This is why C is called a "portable" language. A program that is written in C and that respects certain limitations can be compiled for many different platforms.
-Here Programs for basic operations like  Palindromes,Pascals Triangle,Pointers,Arrays,Class,FileHandling,Factorial,ASCII,Swapping,Functions,SwitchCase
-</font>
+ 
+
+```diff
+
+-C is available for many different types of computers. This is why C is called a "portable" language. A program that is written in C and that respects certain limitations can be compiled for many different platforms.
+
+
++Here Programs for basic operations like  Palindromes,Pascals Triangle,Pointers,Arrays,Class,FileHandling,Factorial,ASCII,Swapping,Functions,SwitchCase
