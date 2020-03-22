@@ -1,5 +1,5 @@
 # CProgrammingBasics
- Basics Fundamentals of Programming in C Lang.
+ 
  
 
 ## Getting Started
