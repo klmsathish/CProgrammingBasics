@@ -55,3 +55,16 @@ Any changes/updates or errors ping on me
 
 * C lang
 
+## Topics Covered
+* **String Functions**
+* **Dynamic Memory Allocation**
+* **Looping** 
+* **Condition Statements**
+* **Functions**
+* **Modules**
+* **Objects**
+* **Recursive**
+* **Data Types**
+* **ASCII conversion**
+
+
